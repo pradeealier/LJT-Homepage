@@ -1,0 +1,16 @@
+---
+title: "On the Universal Truthfulness Hyperplane Inside LLMs"
+collection: publications
+permalink: /publications/2024-01-02-universal-truthfulness-hyperplane
+date: 2024-01-02
+venue: "EMNLP 2024"
+citation: "Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). <i>On the Universal Truthfulness Hyperplane Inside LLMs</i>."
+---
+
+{% include base_path %}
+
+**Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He.
+
+EMNLP 2024.
+
+Code: Universal_Truthfulness_Hyperplane (GitHub).
